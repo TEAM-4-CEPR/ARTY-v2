@@ -1,9 +1,9 @@
 
-Author : Ilango Guy
-Maintainer : Ilango Guy
-Draw : Adeline Cezard
-Licence : CEPR
-Affiliation: Research Center for Respiratory Diseases ; Team 4  (France)
+**Author** : Ilango Guy<br />
+**Maintainer** : Ilango Guy<br />
+**Draw** : Adeline Cezard<br />
+**Licence** : CEPR<br />
+**Affiliation**: Research Center for Respiratory Diseases ; Team 4  (France)<br />
 
 -----------------------------------------------
 # Analyse youR daTa Yourself (ARTY) V2
